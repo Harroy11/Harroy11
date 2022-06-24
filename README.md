@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Harroy11
 - 👀 I’m interested in Unity, C#, Visual Studio, Nintendo, Zelda
 - 🌱 I’m currently learning Unity
-- 📫 How to reach me harrisonrogness1@gmail.com
+- 📫 How to reach me harrisonrogness1@outlook.com
