@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Harroy11
-- 👀 I’m interested in Unity, C#, Visual Studio, Nintendo, Zelda
-- 🌱 I’m currently learning Godot, ASP.NET, .NET MAUI
+- 👀 I’m interested in Game Development.
+- 🌱 I’m currently learning Unity, Unreal, Godot, C#, dotNET
 - 📫 How to reach me harrisonrogness1@outlook.com
