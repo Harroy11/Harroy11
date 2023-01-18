@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Harroy11
 - 👀 I’m interested in Game Development.
-- 🌱 I’m currently learning Unity, Unreal, Godot, C#, dotNET
+- 🌱 I’m currently learning MonoGame, Unreal, C#, dotNET
 - 📫 How to reach me harrisonrogness1@outlook.com
